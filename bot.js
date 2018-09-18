@@ -27,4 +27,4 @@ clinet.on("guildMemberAdd", member => {
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login('NDgyNjEwODc5MzE4NDU4Mzg0.Dn5ENw.ILrV3QoI2de513JimFehlyROW8I');
