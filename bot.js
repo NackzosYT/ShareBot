@@ -1,9 +1,9 @@
 const Discord = require('discord.js');
-const client = new Discord.Client();
+const A7MD = new Discord.Client();
 
 console.log("BOT ONLINE");
  
-clinet.on("guildMemberAdd", member => {
+A7MD.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
@@ -23,8 +23,4 @@ clinet.on("guildMemberAdd", member => {
 
 
 
-
-
-
-
-client.login('NDgyNjEwODc5MzE4NDU4Mzg0.Dn5ENw.ILrV3QoI2de513JimFehlyROW8I');
+client.login(process.env.BOT_TOKEN);
