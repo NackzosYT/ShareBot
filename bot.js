@@ -6,6 +6,7 @@ console.log("BOT ONLINE");
 A7MD.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
+
 **
 هلا وسهلا ياقلبي :hear_no_evil: 
 
@@ -17,10 +18,8 @@ A7MD.on("guildMemberAdd", member => {
 احنا ما ندعو الا الراقين مثلك :flower_playing_cards: 
 [ ${member}  ] .......
 ***{ https://discord.gg/VTemcwg }***`) 
+
+**`) 
 }).catch(console.error)
 })
-
-
-
-
-client.login(process.env.BOT_TOKEN);
+A7MD.login('NDgyNjEwODc5MzE4NDU4Mzg0.Dn5ENw.ILrV3QoI2de513JimFehlyROW8I');
