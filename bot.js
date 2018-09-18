@@ -17,7 +17,7 @@ A7MD.on("guildMemberAdd", member => {
 **
 احنا ما ندعو الا الراقين مثلك :flower_playing_cards: 
 [ ${member}  ] .......
-***{ https://discord.gg/VTemcwg }***
+***{ https://discord.gg/vDJHB9D }***
 `) 
 }).catch(console.error)
 })
