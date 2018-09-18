@@ -1,9 +1,9 @@
 const Discord = require('discord.js');
-const A7MD = new Discord.Client();
+const client = new Discord.Client();
 
 console.log("BOT ONLINE");
  
-A7MD.on("guildMemberAdd", member => {
+clinet.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
@@ -19,6 +19,11 @@ A7MD.on("guildMemberAdd", member => {
 ***{ https://discord.gg/VTemcwg }***`) 
 }).catch(console.error)
 })
+
+
+
+
+
 
 
 
