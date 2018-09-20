@@ -16,7 +16,7 @@ console.log("Welcome Again !");
 **
 احنا ما ندعو الا الراقين مثلك :flower_playing_cards: 
 [ ${member}  ].......
-***{ https://discord.gg/vDJHB9D }***
+***{ https://discord.gg/qGqkm72 }***
 `)
 }).catch(console.error)
 
@@ -35,8 +35,8 @@ client.on("guildMemberAdd", member => {
 **
 احنا ما ندعو الا الراقين مثلك :flower_playing_cards: 
 [ ${member}  ].......
-***{ https://discord.gg/vDJHB9D }***
+***{ https://discord.gg/qGqkm72 }***
 `) 
 }).catch(console.error)
 })
-client.login('NDgyNjEwODc5MzE4NDU4Mzg0.Dn5ENw.ILrV3QoI2de513JimFehlyROW8I');
+client.login('NDkyMjgxNTA0MzExOTM0OTc3.DoUiVA.goEXGgslfMN89N6y6jyYFt1zjB4');
