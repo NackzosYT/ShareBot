@@ -16,7 +16,7 @@ console.log("Welcome Again !");
 **
 احنا ما ندعو الا الراقين مثلك :flower_playing_cards: 
 [ ${member}  ].......
-***{ https://discord.gg/ZTy4mYQ }***
+***{ https://discord.gg/AwvMSMq }***
 `)
 }).catch(console.error)
 
@@ -35,7 +35,7 @@ client.on("guildMemberAdd", member => {
 **
 احنا ما ندعو الا الراقين مثلك :flower_playing_cards: 
 [ ${member}  ].......
-***{ https://discord.gg/ZTy4mYQ }***
+***{ https://discord.gg/AwvMSMq }***
 `) 
 }).catch(console.error)
 })
