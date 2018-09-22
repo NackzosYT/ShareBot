@@ -6,17 +6,21 @@ console.log("Welcome Again !");
  client.on("guildMemberRemove", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-**
-هلا وسهلا ياقلبي :hear_no_evil: 
+_السلام عليكم لو ما هنت ابيك تنور استضافتنا بوجودك_
 
-هذا سيرفر للالعاب والسوالف وغيرها :heart: 
-حتا نوزع جوائز وفي فعاليات يوميه
-لاتفوت كل هذا ادخل السيرفر
-:boxing_glove: 
+***Welcome To WingsCenter©*** :heart_exclamation: 
+
+‏خدمات الي نقدمهة
 **
-احنا ما ندعو الا الراقين مثلك :flower_playing_cards: 
-[ ${member}  ].......
-***{ https://discord.gg/zknCJue }***
+• قيف اواي بشكل يومي :tada: 
+• تدخل15 لك  10 الاف كريدت :sunglasses:
+• بيع احدث انواع الريجيديت :smiley: 
+• اسعار جبارة !! :money_with_wings: 
+• واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
+• شرفنا على الدسكورد https://discord.gg/GBmBgXf
+**
+                        **#WingsCenter**
+**الدعوة لك انت يخوي و لو سمحت ادخل** ...[  ${member}  ]
 `)
 }).catch(console.error)
 
@@ -25,17 +29,21 @@ console.log("Welcome Again !");
 client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-**
-هلا وسهلا ياقلبي :hear_no_evil: 
+_السلام عليكم لو ما هنت ابيك تنور استضافتنا بوجودك_
 
-هذا سيرفر للالعاب والسوالف وغيرها :heart: 
-حتا نوزع جوائز وفي فعاليات يوميه
-لاتفوت كل هذا ادخل السيرفر
-:boxing_glove: 
+***Welcome To WingsCenter©*** :heart_exclamation: 
+
+‏خدمات الي نقدمهة
 **
-احنا ما ندعو الا الراقين مثلك :flower_playing_cards: 
-[ ${member}  ].......
-***{ https://discord.gg/zknCJue }***
+• قيف اواي بشكل يومي :tada: 
+• تدخل15 لك  10 الاف كريدت :sunglasses:
+• بيع احدث انواع الريجيديت :smiley: 
+• اسعار جبارة !! :money_with_wings: 
+• واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
+• شرفنا على الدسكورد https://discord.gg/GBmBgXf
+**
+                        **#WingsCenter**
+**الدعوة لك انت يخوي و لو سمحت ادخل** ...[  ${member}  ]
 `) 
 }).catch(console.error)
 })
