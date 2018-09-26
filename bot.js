@@ -8,7 +8,7 @@ console.log("Welcome Again !");
   return channel.send(` 
 _السلام عليكم لو ما هنت ابيك تنور استضافتنا بوجودك_
 
-***Welcome To WingsCenter©*** :heart_exclamation: 
+***Welcome To WingsCommunity©*** :heart_exclamation: 
 
 ‏خدمات الي نقدمهة
 **
@@ -20,7 +20,7 @@ _السلام عليكم لو ما هنت ابيك تنور استضافتنا �
 • شرفنا على الدسكورد 
 https://discord.gg/d3B3ZRQ
 **
-                        **#WingsCenter**
+                        **#WingsCommunity©**
 **الدعوة لك انت يخوي و لو سمحت ادخل** ...[  ${member}  ]
 `)
 }).catch(console.error)
@@ -32,7 +32,7 @@ client.on("guildMemberAdd", member => {
   return channel.send(` 
 _السلام عليكم لو ما هنت ابيك تنور استضافتنا بوجودك_
 
-***Welcome To WingsCenter©*** :heart_exclamation: 
+***Welcome To WingsCommunity©*** :heart_exclamation: 
 
 ‏خدمات الي نقدمهة
 **
@@ -44,7 +44,7 @@ _السلام عليكم لو ما هنت ابيك تنور استضافتنا �
 • شرفنا على الدسكورد 
 https://discord.gg/d3B3ZRQ
 **
-                        **#WingsCenter**
+                        **#WingsCommunity©**
 **الدعوة لك انت يخوي و لو سمحت ادخل** ...[  ${member}  ]
 `) 
 }).catch(console.error)
