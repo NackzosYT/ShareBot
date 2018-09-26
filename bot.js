@@ -47,4 +47,4 @@ _السلام عليكم لو ما هنت ابيك تنور استضافتنا �
 `) 
 }).catch(console.error)
 })
-client.login('NDkzMDEzMDE5NDU5MzIxODc4.DofTuA.6m5JGZpa8DvPUDHdiCsLF8o-ad0');
+client.login('NDg3NDE3NTA1Njc0MTY2Mjcy.Do1vLQ.DhYYxTIOFny2dwNHpFXpnVPu-Q4');
