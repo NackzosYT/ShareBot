@@ -6,9 +6,9 @@ console.log("Welcome Again !");
  client.on("guildMemberRemove", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-_السلام عليكم لو ما هنت ابيك تنور استضافتنا بوجودك_
+_السلام عليكم لو ما هنت ابيك تنور سيرفرنا الجميل بوجودك_
 
-***Welcome To WingsCommunity©*** :heart_exclamation: 
+***Welcome To ! Dream,Server*** :heart_exclamation: 
 
 ‏خدمات الي نقدمهة
 **
@@ -18,9 +18,9 @@ _السلام عليكم لو ما هنت ابيك تنور استضافتنا �
 • اسعار جبارة !! :money_with_wings: 
 • واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 • شرفنا على الدسكورد 
-https://discord.gg/d3B3ZRQ
+https://discord.gg/RmtpFT5
 **
-                        **#WingsCommunity©**
+                        **! Dream,Server**
 **الدعوة لك انت يخوي و لو سمحت ادخل** ...[  ${member}  ]
 `)
 }).catch(console.error)
@@ -30,9 +30,9 @@ https://discord.gg/d3B3ZRQ
 client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-_السلام عليكم لو ما هنت ابيك تنور استضافتنا بوجودك_
+_السلام عليكم لو ما هنت ابيك تنور سيرفرنا الجميل بوجودك_
 
-***Welcome To WingsCommunity©*** :heart_exclamation: 
+***Welcome To ! Dream,Server*** :heart_exclamation: 
 
 ‏خدمات الي نقدمهة
 **
@@ -42,11 +42,11 @@ _السلام عليكم لو ما هنت ابيك تنور استضافتنا �
 • اسعار جبارة !! :money_with_wings: 
 • واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 • شرفنا على الدسكورد 
-https://discord.gg/d3B3ZRQ
+https://discord.gg/RmtpFT5
 **
-                        **#WingsCommunity©**
+                        **! Dream,Server**
 **الدعوة لك انت يخوي و لو سمحت ادخل** ...[  ${member}  ]
 `) 
 }).catch(console.error)
 })
-client.login('NDg3NDE3NTA1Njc0MTY2Mjcy.Do1vLQ.DhYYxTIOFny2dwNHpFXpnVPu-Q4');
+client.login('NDgwNzM0NjYyODE4NTI5Mjgx.DpU_bA.vfzk_Vi8SoRRm1mfKePdg4PB7iU');
