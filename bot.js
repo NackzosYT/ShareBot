@@ -8,7 +8,7 @@ console.log("Welcome Again !");
   return channel.send(` 
 _السلام عليكم لو ما هنت ابيك تنور سيرفرنا الجميل بوجودك_
 
-***Welcome To ! Night,Server*** :heart_exclamation: 
+***Welcome To ! Secrecy,SerSecrecyver*** :heart_exclamation: 
 
 ‏خدمات الي نقدمهة
 **
@@ -20,7 +20,7 @@ _السلام عليكم لو ما هنت ابيك تنور سيرفرنا ال�
 • شرفنا على الدسكورد 
 https://discord.gg/cErWnMq
 **
-                        **! Night,Server**
+                        **! Secrecy,Server**
 **الدعوة لك انت يخوي و لو سمحت ادخل** ...[  ${member}  ]
 `)
 }).catch(console.error)
@@ -32,7 +32,7 @@ client.on("guildMemberAdd", member => {
   return channel.send(` 
 _السلام عليكم لو ما هنت ابيك تنور سيرفرنا الجميل بوجودك_
 
-***Welcome To ! Night,Server*** :heart_exclamation: 
+***Welcome To ! Secrecy,Server*** :heart_exclamation: 
 
 ‏خدمات الي نقدمهة
 **
@@ -44,7 +44,7 @@ _السلام عليكم لو ما هنت ابيك تنور سيرفرنا ال�
 • شرفنا على الدسكورد 
 https://discord.gg/cErWnMq
 ** 
-                        **! Night,Server**
+                        **! Secrecy,Server**
 **الدعوة لك انت يخوي و لو سمحت ادخل** ...[  ${member}  ]
 `) 
 }).catch(console.error)
