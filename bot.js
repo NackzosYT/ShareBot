@@ -9,7 +9,7 @@ console.log("Welcome Again !");
 **
 • حياك الله ي عيني بـ سيرفرنا وشرفنا:hearts: ..
 • تدخل 5  لك  10 الاف كريدت  :heartpulse: 
-• فعاليات يوميه ويكشل مستمر :rose:
+• فعاليات يوميه وبشكل مستمر :rose:
 
 •『 https://discord.gg/cErWnMq 』•
 
@@ -25,7 +25,7 @@ client.on("guildMemberAdd", member => {
 **
 • حياك الله ي عيني بـ سيرفرنا وشرفنا:hearts: ..
 • تدخل 5  لك  10 الاف كريدت  :heartpulse: 
-• فعاليات يوميه ويكشل مستمر :rose:
+• فعاليات يوميه وبشكل مستمر :rose:
 
 •『 https://discord.gg/cErWnMq 』•
 
