@@ -33,4 +33,4 @@ client.on("guildMemberAdd", member => {
 `) 
 }).catch(console.error)
 })
-client.login('Mzc4OTUzMzM0MjUxNDU0NDc1.DpzqnA.zK3BBLkdsA_yZRtz4wAs5H1hdOU');
+client.login('Mzc4OTUzMzM0MjUxNDU0NDc1.Dp5pyQ.RTH8bv8qnFy0O12Zia2m8MwPGBA');
