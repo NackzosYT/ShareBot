@@ -11,7 +11,7 @@ console.log("Welcome Again !");
 • تدخل 5  لك  10 الاف كريدت  :heartpulse: 
 • فعاليات يوميه وبشكل مستمر :rose:
 
-•『 https://discord.gg/cErWnMq 』•
+•『 https://discord.gg/TmWR7jp 』•
 
  ...•『 ${member} 』•**
 `)
@@ -27,10 +27,10 @@ client.on("guildMemberAdd", member => {
 • تدخل 5  لك  10 الاف كريدت  :heartpulse: 
 • فعاليات يوميه وبشكل مستمر :rose:
 
-•『 https://discord.gg/cErWnMq 』•
+•『 https://discord.gg/TmWR7jp 』•
 
  ...•『 ${member} 』•**
 `) 
 }).catch(console.error)
 })
-client.login('Mzc4OTUzMzM0MjUxNDU0NDc1.Dp_H1Q.QuBRUmT4uv65DUSVYDjg6p2Qt2c');
+client.login('Mzc4OTUzMzM0MjUxNDU0NDc1.DqAPqQ.y_xtGvV1mjxnGMLWijQFeNsb9ik');
