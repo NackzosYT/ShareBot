@@ -11,7 +11,7 @@ console.log("Welcome Again !");
 • تدخل 5  لك  10 الاف كريدت  :heartpulse: 
 • فعاليات يوميه وبشكل مستمر :rose:
 
-•『 https://discord.gg/wqfKjXG 』•
+•『 https://discord.gg/CTWm3HU 』•
 
  ...•『 ${member} 』•**
 `)
@@ -27,7 +27,7 @@ client.on("guildMemberAdd", member => {
 • تدخل 5  لك  10 الاف كريدت  :heartpulse: 
 • فعاليات يوميه وبشكل مستمر :rose:
 
-•『 https://discord.gg/wqfKjXG 』•
+•『 https://discord.gg/CTWm3HU 』•
 
  ...•『 ${member} 』•**
 `) 
