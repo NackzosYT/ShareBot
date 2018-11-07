@@ -1,36 +1,11 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-console.log("Welcome Again !");
- 
- client.on("guildMemberRemove", member => {
-  member.createDM().then(function (channel) {
-  return channel.send(` 
-**
-• حياك الله ي عيني بـ سيرفرنا وشرفنا:hearts: ..
-• تدخل 5  لك  10 الاف كريدت  :heartpulse: 
-• فعاليات يوميه وبشكل مستمر :rose:
+client.on('ready', () => {
+ console.log("welcome bot"); 
+  client.user.setGame(`WithSexyGirl.🍷`,"http://twitch.tv/nackzos")
+console.log("log");
+});
 
-•『 https://discord.gg/CTWm3HU 』•
 
- ...•『 ${member} 』•**
-`)
-}).catch(console.error)
-
-})
- 
-client.on("guildMemberAdd", member => {
-  member.createDM().then(function (channel) {
-  return channel.send(` 
-**
-• حياك الله ي عيني بـ سيرفرنا وشرفنا:hearts: ..
-• تدخل 5  لك  10 الاف كريدت  :heartpulse: 
-• فعاليات يوميه وبشكل مستمر :rose:
-
-•『 https://discord.gg/CTWm3HU 』•
-
- ...•『 ${member} 』•**
-`) 
-}).catch(console.error)
-})
-client.login('NTAyMTgwNzE5NTk1MDk0MDUx.Dqt9xw.o21DeHMqrQk2DwKIjp19Lk38ipM');
+client.login(process.env.BOT_TOKEN); 
