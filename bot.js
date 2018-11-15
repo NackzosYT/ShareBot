@@ -3,8 +3,6 @@ const client = new Discord.Client();
 
 
 
-const prefix = "B";
-
 console.log("BOT ONLINE");
  
 
