@@ -53,4 +53,4 @@ https://discord.gg/2kc5CPD
 `) 
 }).catch(console.error)
 })
-client.login('NTAyODQwODA3MzM4OTM0Mjc2.DtCyXg.y5Oj1E8cTfZNuuYipZlNUI3r0VM');
+client.login('NTAyODQwODA3MzM4OTM0Mjc2.DtCz5Q.faKYb8yw2tARioQwV0q5pvqlGhk');
