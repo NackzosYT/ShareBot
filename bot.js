@@ -29,41 +29,14 @@ https://discord.gg/2kc5CPD
 
 })
  
+
+
+
+
+
+
+
 client.on("guildMemberAdd", member => {
-  member.createDM().then(function (channel) {
-  return channel.send(` 
-  ***.#WeeeelcomeTo__Blood__.*** :heart_exclamation: 
- **__خدماتنا في السيرفر___** :heart_eyes: 
-**
-- لدينا نضام دعوات اسطوري :wine_glass: 
-**
-.#5Invites,15k :beers: 
-.#10Invites,23k :beers: 
-.#15Invites,30k :beers: 
-.#20Invites,45k :beers: 
-**
-- ويوجد ليدنا متاجر :shopping_cart: 
-بيع توكنات ديسكورد
-وماينكرافت واشياء اخرى
-
-- وفعاليات وقيفاوايات يوميا :gift: 
-**
-:honey_pot:  ...واخيرا تنورنا ياعسل ${member}
-https://discord.gg/2kc5CPD
-`) 
-}).catch(console.error)
-})
-
-
-
-
-
-
-
-
-
-
-A7MD.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
   ***.#WeeeelcomeTo__Blood__.*** :heart_exclamation: 
