@@ -33,4 +33,4 @@ https://discord.gg/BWpZppJ
 
 
 
-A7MD.login('NTAyOTE4NTg2NTI4OTU2NDE2.DvZ4Xg.ctWiApCtXbQAeZe_rqWsCv3MxK8');
+A7MD.login('NDk5NTUzNDQ0MTgxMzExNDk4.DvZ-pw.Ula78O1tturaG0zsHpWdOfvaRnU');
