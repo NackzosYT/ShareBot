@@ -22,27 +22,6 @@ https://discord.gg/BWpZppJ
 
 
 
- client.on("guildMemberRemove", member => {
-  member.createDM().then(function (channel) {
-  return channel.send(` 
-**نضام انفايت خطير :leaves: 
-- 7 iNvite
-- 30k  :credit_card: 
-- 10 iNvite
-- 70k  :credit_card: 
-- 20 iNvite
-- 100k  :credit_card: 
-https://discord.gg/BWpZppJ
- [ ${member}  ] :rose: ...
-**`)
-}).catch(console.error)
-
-})
- 
-
-
-
-
 
 
 
