@@ -13,6 +13,10 @@ A7MD.on("guildMemberAdd", member => {
 - 70k  :credit_card: 
 - 20 iNvite
 - 100k  :credit_card: 
+-10 iNvite , 1.5$
+-20 iNvite , 3$
+-30 iNvite , 8$
+-50 iNvite 30$
 https://discord.gg/BWpZppJ
  [ ${member}  ] :rose: ...
 **`) 
